@@ -1,2 +1,10 @@
-# Task-manager-using-MEAN
-full-stack task management system that enables users to create, update, prioritize, and track tasks in real time. Built using the MEAN Stack, the application features JWT-based authentication, CRUD APIs, Angular reactive UI, and MongoDB-backed data persistence
+# Task Manager App
+
+[![Application Design Illustration](App_Illustration.png)](https://www.youtube.com/watch?v=V-CeWkz1MNQ&list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd)
+
+##### Watch the full tutorial on [Youtube](https://www.youtube.com/watch?v=V-CeWkz1MNQ&list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd)! 
+
+##### This repository contains the code for both the Angular frontend application as well as the NodeJS API. 
+
+> Don't forget to run `npm install` in both the **api** and **frontend** folders to install dependencies
+
